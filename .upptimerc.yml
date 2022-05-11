@@ -3,11 +3,11 @@ owner: fornpunkt # Your GitHub organization or username, where this repository l
 repo: dependency-monitor # The name of this repository
 
 sites:
-  - name: Fornsök API (Riksanikvarieämbetet)
+  - name: Fornsök API (Riksantikvarieämbetet)
     url: https://app.raa.se/open/fornsok/api/lamning/lamning/94bd12fc-39d9-465f-976a-82f02139f1dd
-  - name: Fornsök WMS (Riksanikvarieämbetet)
+  - name: Fornsök WMS (Riksantikvarieämbetet)
     url: https://karta.raa.se/geo/arkreg_v1.0/wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&FORMAT=image%2Fpng&TRANSPARENT=true&TILED=true&LAYERS=arkreg_v1.0%3Apublicerade_lamningar_centrumpunkt&STYLES=&CQL_FILTER=antikvariskbedomningtyp_id%20IN%20(4%2C2%2C1)%20OR%20(antikvariskbedomningtyp_id%20%3D%205%20AND%20undersokningsstatustyp_id%20IN%20(2%2C1)%20OR%20skadestatustyp_id%20IN%20(3)%20OR%20aktualitetstatustyp_id%20IN%20(2))&WIDTH=256&HEIGHT=256&SRS=EPSG%3A3006&BBOX=565229.8651859611%2C6498043.784463292%2C565306.2166468805%2C6498120.135924212
-  - name: K-samsök (Riksanikvarieämbetet)
+  - name: K-samsök (Riksantikvarieämbetet)
     url: http://www.kulturarvsdata.se/ksamsok/api?method=search&query=thumbnailExists=j&x-api=test&hitsPerPage=500&recordSchema=xml&fields=itemId,thumbnail&startRecord=1
   - name: OpenStreetMap TMS (OpenStreetMap Foundation)
     url: https://c.tile.openstreetmap.org/6/33/20.png
