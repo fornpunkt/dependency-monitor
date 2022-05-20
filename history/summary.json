@@ -40,18 +40,20 @@
     "url": "http://www.kulturarvsdata.se/ksamsok/api?method=search&query=thumbnailExists=j&x-api=test&hitsPerPage=500&recordSchema=xml&fields=itemId,thumbnail&startRecord=1",
     "icon": "https://favicons.githubusercontent.com/www.kulturarvsdata.se",
     "slug": "k-samsoek-riksantikvarieaembetet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7042,
-    "timeDay": 6836,
-    "timeWeek": 6580,
-    "timeMonth": 7042,
-    "timeYear": 7042,
-    "dailyMinutesDown": {}
+    "time": 6495,
+    "timeDay": 3931,
+    "timeWeek": 5885,
+    "timeMonth": 6495,
+    "timeYear": 6495,
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "OpenStreetMap TMS (OpenStreetMap Foundation)",
