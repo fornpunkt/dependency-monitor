@@ -1,7 +1,7 @@
 url: http://www.kulturarvsdata.se/ksamsok/api?method=search&query=thumbnailExists=j&x-api=test&hitsPerPage=500&recordSchema=xml&fields=itemId,thumbnail&startRecord=1
 status: up
 code: 200
-responseTime: 3985
-lastUpdated: 2023-02-08T17:40:25.085Z
+responseTime: 3724
+lastUpdated: 2023-02-08T23:18:05.075Z
 startTime: Wed May 11 2022 20:37:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
