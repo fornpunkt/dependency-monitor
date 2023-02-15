@@ -1,7 +1,7 @@
 url: https://karta.raa.se/geo/arkreg_v1.0/wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&FORMAT=image%2Fpng&TRANSPARENT=true&TILED=true&LAYERS=arkreg_v1.0%3Apublicerade_lamningar_centrumpunkt&STYLES=&CQL_FILTER=antikvariskbedomningtyp_id%20IN%20(4%2C2%2C1)%20OR%20(antikvariskbedomningtyp_id%20%3D%205%20AND%20undersokningsstatustyp_id%20IN%20(2%2C1)%20OR%20skadestatustyp_id%20IN%20(3)%20OR%20aktualitetstatustyp_id%20IN%20(2))&WIDTH=256&HEIGHT=256&SRS=EPSG%3A3006&BBOX=565229.8651859611%2C6498043.784463292%2C565306.2166468805%2C6498120.135924212
 status: up
 code: 200
-responseTime: 4725
-lastUpdated: 2023-02-14T23:18:23.325Z
+responseTime: 928
+lastUpdated: 2023-02-15T23:18:21.789Z
 startTime: Wed May 11 2022 20:37:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
