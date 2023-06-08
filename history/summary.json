@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.05%",
-    "time": 2274,
-    "timeDay": 1232,
-    "timeWeek": 2983,
-    "timeMonth": 2207,
+    "time": 2272,
+    "timeDay": 1321,
+    "timeWeek": 2991,
+    "timeMonth": 2194,
     "timeYear": 2288,
     "dailyMinutesDown": {
       "2023-04-22": 499,
@@ -40,10 +40,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1416,
-    "timeDay": 630,
-    "timeWeek": 2148,
-    "timeMonth": 1269,
+    "time": 1414,
+    "timeDay": 743,
+    "timeWeek": 2152,
+    "timeMonth": 1267,
     "timeYear": 1460,
     "dailyMinutesDown": {
       "2023-04-28": 442,
@@ -59,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kulturarvsdata.se.ico",
     "slug": "k-samsoek-riksantikvarieaembetet",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.39%",
-    "time": 5194,
-    "timeDay": 4355,
-    "timeWeek": 4869,
-    "timeMonth": 4626,
-    "timeYear": 5201,
+    "time": 5192,
+    "timeDay": 4360,
+    "timeWeek": 4785,
+    "timeMonth": 4618,
+    "timeYear": 5196,
     "dailyMinutesDown": {
       "2023-05-23": 74,
       "2023-04-25": 24,
@@ -79,8 +79,7 @@
       "2023-03-17": 3,
       "2023-01-25": 19,
       "2022-07-12": 22,
-      "2022-06-29": 54,
-      "2022-06-08": 138
+      "2022-06-29": 54
     }
   },
   {
@@ -95,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 35,
-    "timeWeek": 108,
-    "timeMonth": 117,
-    "timeYear": 120,
+    "timeDay": 50,
+    "timeWeek": 95,
+    "timeMonth": 113,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   }
 ]
