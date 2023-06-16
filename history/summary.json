@@ -58,7 +58,7 @@
     "url": "http://www.kulturarvsdata.se/ksamsok/api?method=search&query=thumbnailExists=j&x-api=test&hitsPerPage=500&recordSchema=xml&fields=itemId,thumbnail&startRecord=1",
     "icon": "https://icons.duckduckgo.com/ip3/www.kulturarvsdata.se.ico",
     "slug": "k-samsoek-riksantikvarieaembetet",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
     "uptimeDay": "98.25%",
     "uptimeWeek": "99.75%",
@@ -70,6 +70,7 @@
     "timeMonth": 4474,
     "timeYear": 5177,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-06-15": 25,
       "2023-05-23": 74,
       "2023-04-25": 24,
